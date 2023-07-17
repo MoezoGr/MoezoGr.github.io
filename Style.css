@@ -4,8 +4,8 @@ body, table, footer {
     color: skyblue;
 }
 
-table, td {
-    border:1px solid black;
+table {
+    border:1px, solid, black;
 
 }
 
