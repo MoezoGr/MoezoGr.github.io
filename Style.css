@@ -1,7 +1,9 @@
 body {
-    Background-color: orange;
+    Background-color: #EFA00B;
 }
 
 * {
-    color: black;
+    color: #ADB4FB;
+    text-align: center;
 }
+
