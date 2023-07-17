@@ -4,7 +4,7 @@ body, table, footer {
     color: skyblue;
 }
 
-table {
+table, td {
     border:1px solid black;
 
 }
