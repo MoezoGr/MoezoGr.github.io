@@ -1,9 +1,8 @@
-body {
+body, table, footer {
     Background-color: #EFA00B;
+    text-align: center;
+    color: #ADB4FB;
 }
 
-* {
-    color: #ADB4FB;
-    text-align: center;
-}
+
 
