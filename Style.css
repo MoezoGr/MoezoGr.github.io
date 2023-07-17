@@ -6,6 +6,7 @@ body, table, footer {
 
 table {
     border:1px, solid, black;
+    table-align: center;
 
 }
 
