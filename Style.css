@@ -12,7 +12,7 @@ h1 {
     background-image: url('marble.jpg');
     background-clip: text;
     color: transparent;
-    background-color: white;
+    -webkit-background-clip: text;
 }
 
 
