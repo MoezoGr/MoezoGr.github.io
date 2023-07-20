@@ -1,13 +1,18 @@
-body, table, footer {
+body, table, footer, p {
     Background-color: white;
     text-align: center;
     color: skyblue;
 }
 
-table {
-    border:1px, solid, black;
-    table-align: center;
+footer, h1, h3 {
+    font-family: garabond;
+}
 
+h1 {
+    background-image: url('marble.jpg');
+    background-clip: text;
+    color: transparent;
+    background-color: white;
 }
 
 
