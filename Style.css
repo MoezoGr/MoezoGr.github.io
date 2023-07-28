@@ -1,11 +1,23 @@
 body, table, footer, p {
     Background-color: white;
     text-align: center;
-    color: skyblue;
+    color: #44596675;
 }
+ Body, p, footer {
+     background-color: gold;
+  padding: 9px;
+  text-align: center;
+  border: 5px silver;
+  border-style: groove;
+ 
+ }
 
-footer, h1, h3 {
-    font-family: garabond;
+
+
+
+h1 {
+    font-family: sans-serif;
+ text-align: justify;
 }
 
 h1 {
@@ -13,14 +25,19 @@ h1 {
     background-clip: text;
     color: transparent;
     -webkit-background-clip: text;
-    background-color: gold;
-    Border: 1px auto blue;
-    border-type: solid;
 }
 
+
 img {
-    max-width: 60%;
-    height: auto;
+ max-width: 100%;
+ height: auto;
+}
+
+.footer {
+ text-align: center;
+ font-family: sans-serif;
+ font-weight: lighter;
+ 
 }
 
 
