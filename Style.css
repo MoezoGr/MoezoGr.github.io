@@ -13,7 +13,14 @@ h1 {
     background-clip: text;
     color: transparent;
     -webkit-background-clip: text;
+    background-color: gold;
+    Border: 1px auto blue;
+    border-type: solid;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 
