@@ -1,7 +1,8 @@
 body, table, footer, p {
     Background-color: white;
     text-align: center;
-    color: #49596699;
+    color: black;
+    font-weight: heavy;
 }
  Body, p, footer {
      background-color: darkred;
